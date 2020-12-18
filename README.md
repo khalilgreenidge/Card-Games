@@ -2,6 +2,7 @@
 The repository contains the CLI-based card games of which I have developed while completing my masters in Computer Science at the University of Birmingham. Through this assignment, I received 100%. The main focus of this assignment was the creation of the Pontoon/Blackjack card game.
 
 
+![alt-text](https://github.com/khalilgreenidge/Card-Games/blob/main/18973620.jpg "pontoon image")
 
 
 # Pontoon Card Game
