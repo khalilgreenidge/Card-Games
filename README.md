@@ -1,5 +1,8 @@
 # Card Games
-The repository contains the CLI-based card games of which I have developed as a student at the University of Birmingham. Through this assignment, I received 100%. The main focus of this assignment was the creation of the Pontoon/Blackjack card game.
+The repository contains the CLI-based card games of which I have developed while completing my masters in Computer Science at the University of Birmingham. Through this assignment, I received 100%. The main focus of this assignment was the creation of the Pontoon/Blackjack card game.
+
+
+
 
 # Pontoon Card Game
 Pontoon is a game that has many different names, and is known all over the world. Another name for it is Blackjack. The main attribute of this game is that the players are trying to get a hand of cards with the value 21 or less, but as close to 21 as possible if less than 21. A hand of cards with a value of more than 21 is 'bust' and is not valid. The game is often played by two players with one acting as the 'bank'. You can simply consider it a game of two equal players. The proceeds as follows: 
