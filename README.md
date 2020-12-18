@@ -7,8 +7,7 @@ Pontoon is a game that has many different names, and is known all over the world
 - at the start of the game each player gets two cards dealt face down. 
 - one of the 2 players turns both of their cards. 
 - if the value of their two cards sums to less than 16, they must receive another card (also known as a twist). 
-- if the value of their cards is between 16 and 21 (inclusive) they can choose to 'stick'. Once the player is either happy with the value of their cards (and it has not exceeded
-21) they stick and the game moves to the other player. 
+- if the value of their cards is between 16 and 21 (inclusive) the player is assumed to be happy with the value of their cards and will stick to their hand automatically and the game moves to the other player. 
 - the other player follows the same process and attempts to get a better hand than the rest of player(s).
 
 For the purposes of this assignment, the rank order of hands in the game Pontoon was as follows:
@@ -16,4 +15,4 @@ For the purposes of this assignment, the rank order of hands in the game Pontoon
 2. (2) A 'Five Card Trick' is a hand comprising five cards where the value of the hand does not exceed 21.
 3. (3) A hand with any number of cards totalling 21.
 4. (4) Hands with a total value of 20 or less, the nearer to 21 the better.
-A hand with a value of more than 21 is 'bust' and is worthless.
+5. A hand with a value of more than 21 is 'bust' and is worthless.
